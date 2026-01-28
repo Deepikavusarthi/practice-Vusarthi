@@ -16,3 +16,6 @@ I really enjoy Allu Arjun music band; his songs are really nice and entertaining
 - The Alchemist
 - Harry Potter
 - Atomic Habits
+
+
+[Learn more about my favorite location](MyLocation.md)
