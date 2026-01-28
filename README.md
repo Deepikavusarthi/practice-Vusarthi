@@ -9,13 +9,26 @@ I really enjoy Allu Arjun music band; his songs are really nice and entertaining
 2. The weekend 
 3. Srujana 
 
-
-
-### Favorite Books
-
-- The Alchemist
-- Harry Potter
-- Atomic Habits
+### Favourite Books 
+1. Atomic Habits
+2. Harry potter 
+3. Data Base Basics
 
 
 [Learn more about my favorite location](MyLocation.md)
+
+
+
+----------------------------------------
+
+## Places i would like to Visit 
+
+Below is a table of places I would like to visit in the future. These locations interest me because of their culture, scenery, and unique experiences they offer.
+
+| Places to visit | Reason for Visiting       | Distance from Home | Budget for One week($) |
+|-----------------|---------------------------|--------------------|------------------------|
+| Hyderabad       |Famous Biryani and Culture | 8,904 Miles        |  $2500                 |
+| Paris           | Famous Landmarks          | 4,890 Miles        |  $2300                 |
+| Maldives        | Beaches and peace         | 5,000 Miles        |  $3500                 |
+| Japan           | Technology and traditions | 9,000 Miles        |  $4000                 |
+| New York City   | City life and attraction  | 1,200 Miles        |  $2500                 |
