@@ -47,3 +47,17 @@ Below are a few lyric segments from songs that I really enjoy.
 > *Taylor Swift*
 
 
+--------------------------------------------------------------------------------------------------
+
+---
+
+## Part 9: Code Fencing
+
+Below is a JavaScript code snippet that demonstrates how to create a function that adds two numbers and prints the result to the console.
+
+```javascript
+function addNumbers(a, b) {
+  return a + b;
+}
+
+console.log(addNumbers(5, 10));
