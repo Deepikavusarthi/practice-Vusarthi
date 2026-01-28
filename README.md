@@ -32,3 +32,18 @@ Below is a table of places I would like to visit in the future. These locations 
 | Maldives        | Beaches and peace         | 5,000 Miles        |  $3500                 |
 | Japan           | Technology and traditions | 9,000 Miles        |  $4000                 |
 | New York City   | City life and attraction  | 1,200 Miles        |  $2500                 |
+
+
+------------------------------------------------------------------------------------------------
+
+## Part 8 : Favourite Quotes
+
+Below are a few lyric segments from songs that I really enjoy.
+
+> "I said, ooh, I'm blinded by the lights"
+> *The Weekend*
+
+> "I got that red lip, classic thing that you like"
+> *Taylor Swift*
+
+
