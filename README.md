@@ -4,6 +4,15 @@ I really enjoy Allu Arjun music band; his songs are really nice and entertaining
 
 -------------------------------------
 ## Part 4: Favorite Musicians 
+
 1. Taylor swift
 2. The weekend 
 3. Srujana 
+
+
+
+### Favorite Books
+
+- The Alchemist
+- Harry Potter
+- Atomic Habits
